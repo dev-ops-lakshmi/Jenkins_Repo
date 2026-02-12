@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello from git triggered via scm'
+                echo 'Hello from git triggered via smee web site'
             }
         }
     }
