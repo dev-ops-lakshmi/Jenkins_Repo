@@ -7,7 +7,7 @@ pipeline {
                 echo 'Hello from git triggered via smee web site - testttttt'
             }
 	    steps {
-                echo 'lets see if this works???'
+                echo 'lets see if this works?'
             }
         }
     }
