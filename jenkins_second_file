@@ -1,3 +1,4 @@
 echo 'Second commit from git to jenkins'
 echo 'plz find the second commit'
 echo 'Third commit'
+echo 'Fourth commit'
